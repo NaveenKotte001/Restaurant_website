@@ -1,0 +1,11 @@
+my_documents(ssc certificate color xerox,intermediate,btech memo pdf copy,id card,pan card,one more identity proof(driving liscence,passport))
+excel sheet-1.serial no
+2.name of the company
+3.url website link
+4.job posting date
+5.applied date
+6.application status
+7.selected/Not
+8.written test date
+9.written test status
+10.job status
